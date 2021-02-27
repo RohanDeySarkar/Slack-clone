@@ -1,3 +1,8 @@
+Deployed here --> https://slack-clone-6584f.web.app/
+
+
+![](https://github.com/RohanDeySarkar/Slack-clone/blob/master/Screenshot%20(78).png?raw=true)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
